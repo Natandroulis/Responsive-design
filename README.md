@@ -1,5 +1,8 @@
-# easy-shopping
+# Responsive-design
 Page layout applying responsive features.
+<br>Preview into layout
 
-
-<h2> Projeto responsivo desenvolvido para fins didaticos </h2>
+<p align="center">
+<img src="https://github.com/Natandroulis/easy-shopping/blob/master/README.png?raw=true"
+height="500px" width="650px"> 
+</p>
